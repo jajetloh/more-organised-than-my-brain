@@ -1,5 +1,5 @@
 ---
-tags: ['learning']
+tags: ['Learning']
 date: 2025-11-13
 toc: true
 ---

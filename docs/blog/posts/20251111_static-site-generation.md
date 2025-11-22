@@ -1,5 +1,5 @@
 ---
-tags: ['opinion']
+tags: ['Opinion']
 date: 2025-11-11
 toc: true
 ---
