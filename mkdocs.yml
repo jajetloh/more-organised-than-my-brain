@@ -3,5 +3,6 @@ site_url: https://jajetloh.github.io/more-organised-than-my-brain/
 theme:
   name: material
 plugins: 
-  - blog
+  - blog:
+      blog_dir: .
   - tags
