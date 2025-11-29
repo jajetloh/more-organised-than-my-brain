@@ -10,7 +10,39 @@ Similar to my page on Economic Metrics, I feel similarly patchy with my knowledg
 
 ---
 
-## Market Capitalisation (Market Cap)
+## Profitability
+
+These metrics help answer the question of **"How well are expenses used to generate profit?"**.
+
+Profitability is the most straightforward type of metric to understand the rationale for. All firms need to be profitable to operate - or have very generous sponsors.
+
+### Gross Profit Margin
+
+$$
+\text{Gross Profit Margin} = \frac{\text{Revenue} - \text{COGS}}{\text{Revenue}}
+$$
+
+[Source](https://www.investopedia.com/ask/answers/122314/what-difference-between-gross-margin-and-contribution-margin.asp)
+
+### Net Profit Margin
+
+$$
+\text{Net Profit Margin} = \frac{\text{Revenue} - \text{COGS} - \text{Expenses} - \text{Interest} - \text{Taxes}}{\text{Revenue}}
+$$
+
+[Source](https://www.investopedia.com/terms/n/net_margin.asp)
+
+## Liquidity
+
+## Efficiency
+
+## Market
+
+---
+
+## Others
+
+### Market Capitalisation (Market Cap)
 
 **Market Cap** is a measure of the total value of a company, calculated as the market price per share, multiplied by total number of outstanding shares. This calculation is more complex for private companies. Market Cap is generally considered an efficient reflection of a public company's value based on all publicly available information, and is seen as a reflection of current and historical performance.
 
