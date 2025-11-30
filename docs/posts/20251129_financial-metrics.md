@@ -34,6 +34,54 @@ $$
 
 ## Liquidity
 
+Liquidity refers to the ability of a business to meet short-term financial obligations, such as loan repayments and accounts payable. Why does this matter? Because if you can't meet those obligations, you either need to do something like taking a loan, selling assets, raise equity to meet them, or default on them.
+
+### Cash Ratio
+
+$$\text{Cash Ratio} = \frac{\text{Cash} + \text{Short-Term Investments}}{\text{Current Liabilities}}$$
+
+Along with the Quick Ratio and Current Ratio, these three metrics are snapshots in time of a company's liquidity. The Cash Ratio is the most conservative as it only includes the most liquid of assets.
+
+The Cash Ratio alongside Quick and Current Ratios all share some commonalities:
+
+- They are calculated over some time interval - usually annually when comparing across companies, though smaller time scale may be used in specific cases
+- Ratios are not comparable between each other if they are calculated over different time periods
+- Values above 1 are good, below 1 are bad. 1 is generally used as a threshold
+- Values that are too high may indicate that capital isn't being utilised in the most efficient way, so higher is not necessarily better past a point
+
+### Quick Ratio
+
+Also known as the Acid-Test Ratio.
+
+$$\text{Cash Ratio} = \frac{\text{Cash} + \text{Short-Term Investments} + \text{Accounts Receivable}}{\text{Current Liabilities}}$$
+
+A little less conservative than the Cash Ratio as we also include Accounts Receivable.
+
+### Current Ratio
+
+$$\text{Current Ratio} = \frac{\text{Current Assets}}{\text{Current Liabilities}}$$
+
+The **Current Ratio** is the least conservative of the three ratios, as it also includes certain assets that are more difficult to convert into cash. Things that may be included here but not in the Quick Ratio include:
+
+- Raw materials
+- Finished goods
+- Short-term advances
+- Refundable deposits
+
+[Source](https://online.hbs.edu/blog/post/liquidity-ratios)
+
+## Cash Flow
+
+For me, Cash Flow metrics seem like they serve a similar purpose to Profitability - they deal with "money in vs. money out".
+
+### Operating Cash Flow
+
+$$\text{OCF} = \text{Net Income} - \text{Non-Cash Expenses} - \text{Increase in Working Capital}$$
+
+So OCF tells us if operations is able to sustain itself, and we don't consider other CapEx spending or funding sources.
+
+[Source](https://www.investopedia.com/terms/o/operatingcashflow.asp)
+
 ## Efficiency
 
 ## Market
