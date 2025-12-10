@@ -2,12 +2,20 @@ site_name: More Organised Than My Brain
 site_url: https://jajetloh.github.io/more-organised-than-my-brain/
 theme:
   name: material
+  icon:
+    admonition:
+      note: material/alert-circle
 plugins: 
   - tags
 markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
-
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 extra_javascript:
   - javascripts/mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
